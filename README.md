@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color&height=300&section=header&text=MinKyeung%20Bae&animation=twinkling&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MinKyeung%20Bae&animation=twinkling&fontSize=90)
 
 <h3 align="center">🛠 Tech 🛠</h3>
 
