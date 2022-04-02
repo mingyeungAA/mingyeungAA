@@ -12,7 +12,7 @@
 <h3 align="center">✨ Me ✨</h3>
 
 <div align="center">
-    <img src="http://img.shields.io/badge/-Naver%20blog-grey?style=flat&logo=naver&link=https://blog.naver.com/mingyeung">
+    <img src="http://img.shields.io/badge/-Naver%20blog-white?style=flat&logo=naver&link=https://blog.naver.com/mingyeung">
 </div>
 
 <br>
