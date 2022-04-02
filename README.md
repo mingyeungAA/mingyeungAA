@@ -11,7 +11,13 @@
 
 <h3 align="center">✨ Me ✨</h3>
 
-![Blog](http://img.shields.io/badge/-Blog-pink?style-flat-square&loge=github&link=https://blog.naver.com/mingyeung)
+  <p align="center">[![Tech Blog Badge](http://img.shields.io/badge/-Naver%20blog-grey?style=flat&logo=naver&link=https://blog.naver.com/mingyeung)](https://blog.naver.com/mingyeung)
+
+  </p>
+
+
+
+
 
 <br>
 
