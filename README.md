@@ -1,4 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color&height=300&section=header&text=MinKyeung%20Bae&animation=twinkling&fontSize=90)
+
+<h3 align="center">🛠 Tech 🛠</h3>
+
+<p align="center">Techs that I've used at least once</p>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <!--
 **mingyeungAA/mingyeungAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
