@@ -17,6 +17,16 @@
 
 
 
+```html
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
+```
+
+
+
   [![Tech Blog Badge](http://img.shields.io/badge/-Naver%20blog-grey?style=flat&logo=naver&link=https://blog.naver.com/mingyeung)](https://blog.naver.com/mingyeung)
 
 
